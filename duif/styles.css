@@ -1,0 +1,33 @@
+.header {
+    position: fixed;
+    top: 5px;
+    left: 2%;
+	height: 150px;
+    width: 95%;
+    border: 3px solid #73AD25;
+}
+.menu {
+	position: fixed;
+    top: 160px;
+    left: 2%;
+	height: 50px;
+    width: 95%;
+    border: 3px solid #73AD25;
+
+}
+.content {
+    position: fixed;
+    top: 220px;
+    left: 2%;
+    height: 400px;
+    width: 65%;
+    border: 3px solid #73AD25;
+}
+.vlucht {
+    position: fixed;
+    top: 220px;
+    right: 3%;
+    height: 400px;
+    width: 25%;
+    border: 3px solid #73AD25;
+}
