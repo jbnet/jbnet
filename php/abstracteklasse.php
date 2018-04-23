@@ -1,0 +1,1 @@
+<p>Deze hond heet Boes en het moet viermaal daags worden uitgelaten.</p><p>Deze goudvis heet Blub. De kom moet elke dag vers water krijgen.</p>
